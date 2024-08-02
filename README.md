@@ -1,1 +1,1 @@
-# xinhuo-tecch.github.io
+# xinhuo-tech.github.io
